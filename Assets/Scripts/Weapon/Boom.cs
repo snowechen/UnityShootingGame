@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/**==============================
+ * 作者：Snowe （斯诺）
+ * E-mail：snowe0517@gmail.com
+ * QQ：275273997
+ *================================*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
